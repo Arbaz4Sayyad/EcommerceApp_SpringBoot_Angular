@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;backend_app-main&apos; to &apos;backend&apos;" description="Rename resource &apos;backend_app-main&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/backend_app-main" name="backend" stamp="1721459041799" updateReferences="true"/>
+</session>
